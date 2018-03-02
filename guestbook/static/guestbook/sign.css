@@ -1,0 +1,14 @@
+h2 {
+    padding: 30px;
+    margin: 15px;
+}
+
+.form {
+    background-color: #F0F0F0;
+    padding: 80px;
+    margin: 20px;
+}
+
+button {
+    text-align:center;
+}
